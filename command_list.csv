@@ -1,0 +1,144 @@
+    1  cd 
+    2  exit
+    3  cd Q35
+    4  cd EXIT exit
+    5  cd ../
+    6  cd /c/Users/Lenovo/Desktop/Q35 exit
+    7  cd c 
+    8  ..
+    9  ../
+   10  cd /c/Users/Lenovo/Desktop/Q35
+   11  clear 
+   12  pwd 
+   13  ls -l 
+   14  touch test.txt 
+   15  ls -l 
+   16  clear 
+   17  vim test.txt 
+   18  clear 
+   19  mkdir Nelly 
+   20  ls -l 
+   21  cp test.txt Nelly/
+   22  cd Nelly/ ls -l 
+   23  clear 
+   24  ping google.com 
+   25  systeminfo 
+   26  clear 
+   27  ls -l 
+   28  cd ../ 
+   29  attrib +r test.txt 
+   30  attrib +r test.txt
+   31  attrib +r test.txt 
+   32  ../ 
+   33  cd ../
+   34  cd Q35 
+   35  cd /c/Users/Lenovo/Desktop/Q35 
+   36  attrib 
+   37  attrib +r test.txt 
+   38  clear 
+   39  git clone [200~https://github.com/MalikQ35/test.git~ 
+   40  clear 
+   41  git clone https://github.com/MalikQ35/test.git 
+   42  cd 
+   43  /c/Users/Lenovo/Desktop/Q35
+   44  cd /c/Users/Lenovo/Desktop/Q35
+   45  git clone https://github.com/MalikQ35/Malik.git
+   46  cd /c/Users/Lenovo/Desktop/Q35
+   47  cd GitQ35 
+   48  cd Malik35 
+   49  cd Malik 
+   50  git config --global user.name "Nelly Malik"
+   51  git config --global user.email "nelly.voteks@gmail.com"
+   52  clear 
+   53  touch file.txt 
+   54  Malik ls -l
+   55  git status 
+   56  git add file.txt 
+   57  git status 
+   58  clear 
+   59  cd /c/Users/Lenovo/Desktop/Q35/Malik 
+   60  touch file.txt 
+   61  ls -l 
+   62  git status 
+   63  cd Malik 
+   64  cd /c/Users/Lenovo/Desktop/Q35/Malik
+   65  touch file1.txt 
+   66  git status 
+   67  Exit 
+   68  cd /c/Users/Lenovo/Desktop/Q35/Malik
+   69  ls -l 
+   70  git status 
+   71  git config --global user.name "Nelly"
+   72  git config --global user.email "nelly.voteks@gmail.com"
+   73  git status 
+   74  cd D
+   75  clear
+   76  cd /c/Users/Lenovo/Desktop/Q35
+   77  git clone [200~
+   78  clear 
+   79  git clone https://github.com/MalikQ35/GitQ35.git
+   80  cd GitQA35
+   81  ../
+   82  clear 
+   83  git clone https://github.com/MalikQ35/GitQ35.git
+   84  clear 
+   85  git clone https://github.com/MalikQ35/GitQ35.git
+   86  cd /c/Users/Lenovo/Desktop/Q35/GitQ35
+   87  git config --global user.name "Malik Nelly"
+   88  git config --global user.email "nelly.voteks@gmail.com"
+   89  touch file.txt 
+   90  ls -l
+   91  git status
+   92  git add file.txt 
+   93  git status 
+   94  git commit -m "First commit" 
+   95  git push 
+   96  clear 
+   97  git branch 
+   98  git checkout -b test 
+   99  git branch 
+  100  touch test.txt 
+  101  ls -s
+  102  git status 
+  103  git add test.txt 
+  104  git status 
+  105  git commit -m "Second commit"
+  106  git checkout main 
+  107  git merge test 
+  108  git push 
+  109  cd /c/Users/Lenovo/Desktop/MalikQ35
+  110  -c && rm ~/.bush_history
+  111  git config --global user.name "Nelly Malik"
+  112  git config --global user.email "nelly.voteks@gmail.com"
+  113  git clone https://github.com/MalikQ35/HW_10.git
+  114  cd /c/Users/Lenovo/Desktop/MalikQ35/HW_10
+  115  touch text_ignore.txt
+  116  vim .gitignore 
+  117  cat .gitignore
+  118  git status 
+  119  git add text_ignore.txt
+  120  git status 
+  121  git add .gitignore
+  122  git status
+  123  ls -l
+  124  git commit -m "First commit"
+  125  git push
+  126  touch main_test.txt 
+  127  git add main_test.txt 
+  128  git status 
+  129  git commit -m "Second commit"
+  130  git push 
+  131  get checkout -b develop 
+  132  git branch 
+  133  git checkout -b develop 
+  134  git branch 
+  135  touch develop_test.txt 
+  136  ls -l
+  137  git add develop_test.txt 
+  138  git status 
+  139  commit -m "Third commit" 
+  140  git commit -m "Third commit" 
+  141  git checkout main 
+  142  git merge develop 
+  143  git log
+  144  history > command_list.csv 
